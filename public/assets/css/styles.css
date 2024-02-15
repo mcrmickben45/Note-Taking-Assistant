@@ -26,14 +26,14 @@ body {
 
 .note-textarea {
   resize: none;
-  height: calc(100% - 63px);
-  padding-top: 15px;
+  height: calc(100% - 65px);
+  padding-top: 20px;
 }
 
 .note-title {
-  height: 50px;
-  margin-top: 13px;
-  font-size: 3rem;
+  height: 60px;
+  margin-top: 15px;
+  font-size: 5rem;
 }
 
 .note-title:read-only,
@@ -42,7 +42,7 @@ body {
 }
 
 .list-container .card {
-  height: calc(100vh - 70px);
+  height: calc(100vh - 80px);
   border-bottom: none;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
@@ -62,7 +62,7 @@ body {
 
 .list-item-title {
   display: inline-block;
-  width: 75%;
+  width: 80%;
 }
 
 .list-container i {
@@ -73,6 +73,6 @@ body {
 .list-container .list-group-item {
   border-left: none;
   border-right: none;
-  padding: 20px;
+  padding: 15px;
   cursor: pointer;
 }
