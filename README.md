@@ -35,7 +35,7 @@ This Note Taker was created by Ben McCormick using the starter code provided by 
 https://note-taking-assistant-c1bf1c95aae8.herokuapp.com/
 
 ## Images
-<img width="1385" alt="Screen Shot 2024-02-15 at 3 22 53 PM" src="https://github.com/mcrmickben45/Note-Taking-Assistant/assets/137113252/6decbf40-d63d-410b-8ec0-8517f077f6fd">
+<img width="1384" alt="Screen Shot 2024-02-15 at 3 27 52 PM" src="https://github.com/mcrmickben45/Note-Taking-Assistant/assets/137113252/1a2e2e4a-e4ab-4f86-b194-35750b8c0a28">
 <img width="1382" alt="Screen Shot 2024-02-15 at 3 23 12 PM" src="https://github.com/mcrmickben45/Note-Taking-Assistant/assets/137113252/83e2e131-3ea1-4d9d-a9e0-c8fb0bb6a587">
 <img width="1391" alt="Screen Shot 2024-02-15 at 3 23 43 PM" src="https://github.com/mcrmickben45/Note-Taking-Assistant/assets/137113252/6e52a8eb-2abd-4fd6-bcd8-91b2a2efe053">
 <img width="446" alt="Screen Shot 2024-02-15 at 3 24 31 PM" src="https://github.com/mcrmickben45/Note-Taking-Assistant/assets/137113252/e3b9d7b8-08d5-4e11-92b5-cf1e5eb79327">
